@@ -1,0 +1,16 @@
+digraph "C:/Users/winamba/HealthBarsTest/Assets/HealthHeartSystem"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_a48eebbe5f1f1d2c1726a2301caf66e3 {
+    graph [ bgcolor="#daedff", pencolor="grey50", style="filled,dashed,", label="Assets", fontname="Helvetica", fontsize="10", URL="dir_a48eebbe5f1f1d2c1726a2301caf66e3.html"]
+  subgraph clusterdir_e3cbea4c972d5d293b7459515d7dbc9f {
+    graph [ bgcolor="#daedff", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_e3cbea4c972d5d293b7459515d7dbc9f.html"]
+    dir_e3cbea4c972d5d293b7459515d7dbc9f [shape=plaintext, label="HealthHeartSystem"];
+  dir_6fadb7b7712258e67b081a025e982e87 [shape=box, label="Scripts", style="filled,", fillcolor="#4ea9ff", color="grey25", URL="dir_6fadb7b7712258e67b081a025e982e87.html"];
+  }
+  }
+}

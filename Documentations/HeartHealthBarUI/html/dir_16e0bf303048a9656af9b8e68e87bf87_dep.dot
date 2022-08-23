@@ -1,0 +1,12 @@
+digraph "C:/Users/winamba/HeartsOperation/Assets/Scripts"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_1ce577b9809fa17290ddc3a69aae8766 {
+    graph [ bgcolor="#daedff", pencolor="grey50", style="filled,dashed,", label="Assets", fontname="Helvetica", fontsize="10", URL="dir_1ce577b9809fa17290ddc3a69aae8766.html"]
+  dir_16e0bf303048a9656af9b8e68e87bf87 [shape=box, label="Scripts", style="filled,bold,", fillcolor="#daedff", color="grey25", URL="dir_16e0bf303048a9656af9b8e68e87bf87.html"];
+  }
+}
